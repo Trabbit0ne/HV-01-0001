@@ -3,7 +3,7 @@
  ```⚠︎ ON COMPUTER OR PC MODE ONLY ⚠︎```
 ================================================
 
-<img src="https://github.com/user-attachments/assets/9303e11c-d2cf-4fc3-9141-91c959940dc7" style="width: 35%;">
+<img src="https://github.com/user-attachments/assets/9303e11c-d2cf-4fc3-9141-91c959940dc7" style="width: 36%;">
 
 
 * Go To ```strikingly.com``` and login/register a account.
