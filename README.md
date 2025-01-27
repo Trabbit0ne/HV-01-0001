@@ -5,7 +5,8 @@
 #### Vuln Title: PrevStrike
 #### Vuln Level: Critical
 #### Vuln Type: Iframe Exploit
-#### Vuln Discovery Date: 
+#### Vuln Discovery Date: 2025-01-25
+#### Discovered By: Hextass Group // Trabbit0ne
 ---
 ## PoC
 
