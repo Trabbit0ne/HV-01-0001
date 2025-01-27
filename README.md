@@ -1,6 +1,6 @@
- Strikingly Vulnerability - PrevStrike
-================================================
- ```⚠︎ ON COMPUTER OR PC MODE ONLY ⚠︎```
+# HV-01-0001
+## Strikingly Vulnerability - PrevStrike
+```⚠︎ ON COMPUTER OR PC MODE ONLY ⚠︎```
 ================================================
 #### Vuln Title: PrevStrike
 #### Vuln Level: Critical
